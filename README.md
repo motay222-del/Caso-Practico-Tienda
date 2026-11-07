@@ -26,23 +26,6 @@ Programa desarrollado en C++ para una tienda. Solicita la cantidad de unidades d
 - Total a pagar en pesos dominicanos, con dos decimales.
 - Mensaje de error si la cantidad no es válida o el precio es negativo.
 
-## 6. Capturas de pantalla del programa en ejecución
-
-### Escenario 1: venta sin descuento (2 unidades × RD$1,000)
-
-![Ejecución sin descuento](imagenes/escenario1.png)
-
-### Escenario 2: venta con descuento (4 unidades × RD$1,500)
-
-![Ejecución con descuento](imagenes/escenario2.png)
-
-### Escenario 3: total exactamente igual a RD$5,000 (sin descuento)
-
-![Límite de descuento](imagenes/escenario3.png)
-
-### Escenario 4: cantidad no válida
-
-![Validación de entrada](imagenes/escenario4.png)
 
 ## 7. Descripción de las estructuras utilizadas y su función
 
